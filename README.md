@@ -34,11 +34,17 @@ The visuals help answer key business questions like:
 ## 📷 Snapshots
 
 ### 🔹 Overview Dashboard
-![Dashboard Overview](./images/dashboard-overview.png)
+![image](https://github.com/user-attachments/assets/92bb8644-0416-4088-8d43-d4405f0b61ca)
+
 
 ### 🔹 15-Day Sales Forecast
-![Sales Forecast](./images/sales-forecast.png)
+![image](https://github.com/user-attachments/assets/ef4bfc88-9eb7-4043-953b-f66ea2e8448f)
+
 
 ---
 
 ## 📁 Folder Structure
+- PBIX File
+- PDF File
+- Dataset
+
