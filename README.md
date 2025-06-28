@@ -11,7 +11,7 @@ This dashboard is built using the **Global Superstore dataset** and showcases:
 - 🌎 **Sales by Region, Segment & State**
 - 📦 **Sales Quantity, Profit & Delivery Analysis**
 - 📅 **Monthly Trends & Forecast (15 Days)**
-- 🚚 **Ship Mode & Payment Mode Breakdown**
+- 🚚 **Payment Mode Breakdown**
 - 📂 **Category & Sub-category Insights**
 - 🔮 **Sales Forecast using Time Series Visuals**
 
